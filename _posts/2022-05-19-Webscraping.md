@@ -1,3 +1,12 @@
+---
+layout : post
+title : "데이터 수집 실습내용" 
+date : "2022-05-18"
+categories : Blog
+---
+
+
+
 # 데이터 수집(Webscraping)
 
 ## 데이터 분석을 위한 pandas 이용
