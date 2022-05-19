@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : single
 title : "데이터 수집 실습내용" 
 date : "2022-05-18"
 categories : Blog
